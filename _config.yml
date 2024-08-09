@@ -1,0 +1,9 @@
+title: "Eliaukz's reading list"
+description: reading
+#url: https://
+google_analytics: 
+show_downloads: true
+remote_theme: riggraz/no-style-please
+
+gems:
+  - jekyll-mentions
